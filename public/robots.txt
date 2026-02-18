@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://carbatteryseattle.com/sitemap.xml
