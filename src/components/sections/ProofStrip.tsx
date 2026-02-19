@@ -7,7 +7,7 @@ const stats = [
   { value: "15+", label: "Years Experience" },
   { value: "24/7", label: "Always Available" },
   { value: "5,000+", label: "Batteries Installed" },
-  { value: "4.9★", label: "Google Rating" },
+  { value: "5.0★", label: "Google Rating" },
 ];
 
 export default function ProofStrip() {
